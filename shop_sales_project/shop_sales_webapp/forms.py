@@ -12,4 +12,6 @@ class CustomerForm(forms.ModelForm):
             'customer_number': forms.NumberInput(attrs={'class': 'form-control'}),
         }
         
+
+        
         
